@@ -1,0 +1,825 @@
+ 
+
+
+<!--///////////////////////////////////////////////////////
+
+       // End Service section 
+
+       //////////////////////////////////////////////////////////-->
+
+
+
+
+
+<!--///////////////////////////////////////////////////////
+
+       // Process section 
+
+       //////////////////////////////////////////////////////////-->
+
+
+   
+
+<!--///////////////////////////////////////////////////////
+
+       // End Process section 
+
+       //////////////////////////////////////////////////////////-->
+
+
+
+<!--///////////////////////////////////////////////////////
+
+       // Porfolio section 
+
+       //////////////////////////////////////////////////////////-->
+
+
+<!--///////////////////////////////////////////////////////
+
+       // End Porfolio section 
+
+       //////////////////////////////////////////////////////////-->
+
+    
+
+<!--///////////////////////////////////////////////////////
+
+       // Our-plan section 
+
+       //////////////////////////////////////////////////////////-->
+
+
+<!--///////////////////////////////////////////////////////
+
+       // End Our-Plan section 
+
+       //////////////////////////////////////////////////////////-->
+
+
+
+<!--///////////////////////////////////////////////////////
+
+       // Team section 
+
+       //////////////////////////////////////////////////////////-->
+
+<!--///////////////////////////////////////////////////////
+
+       // End Team section 
+
+       //////////////////////////////////////////////////////////-->
+
+
+
+<!--///////////////////////////////////////////////////////
+
+       // Clients section 
+
+       //////////////////////////////////////////////////////////-->
+
+
+
+<!--///////////////////////////////////////////////////////
+
+       // End Clients section 
+
+       //////////////////////////////////////////////////////////-->
+
+
+
+<!--///////////////////////////////////////////////////////
+
+       // Contact section 
+
+       //////////////////////////////////////////////////////////-->
+
+
+
+ -----------
+ <!--
+  <div class="parallax-back" data-stellar-background-ratio="0.5">
+
+    <div class="opcaity">
+
+      <div class="w-container wrap-normal">
+
+        <div class="center">
+
+          <h1 class="underline">Our Happy Customers</h1>
+
+          <p>See what some of our prestigious <strong class="green">clients</strong> say about us</p>
+
+        </div>
+
+        <div class="main">
+
+        <div id="cbp-qtrotator" class="cbp-qtrotator">
+
+          <div class="cbp-qtcontent">
+
+            <img src="images/testimonials/image1.png" alt="img01" />
+
+            <blockquote>
+
+              <p>    Victoria & Alfred Waterfront favour iw<strong class="red">@</strong>re No 3 The Victoria &amp; Alfred
+    Waterfront is one of South Africa's most visited destinations,
+    preferred equally by local and international visitors who go there to live,
+    work, shop and be entertained. The V&amp;A Waterfront, as a brand has
+    locally become a brand which represents and embodies the pride of our
+    nation. Internationally the V&amp;A Waterfront has earned respect as a
+    world-class waterfront</p>
+
+              <footer>Victoria & Alfred Water Front</footer>
+
+            </blockquote>
+
+          </div>
+
+          <div class="cbp-qtcontent">
+
+            <img src="images/testimonials/image2.png" alt="img02" />
+
+            <blockquote>
+
+              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut exercitation ullamco labore et dolore magna aliqua.</p>
+
+              <footer>Albert Einstein</footer>
+
+            </blockquote>
+
+          </div>
+
+          <div class="cbp-qtcontent">
+
+            <img src="images/testimonials/image3.png" alt="img03" />
+
+            <blockquote>
+
+              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut exercitation ullamco labore et dolore magna aliqua.</p>
+
+              <footer>Moby</footer>
+
+            </blockquote>
+
+          </div>
+
+          <div class="cbp-qtcontent">
+
+            <img src="images/testimonials/image1.png" alt="img04" />
+
+            <blockquote>
+
+              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut exercitation ullamco labore et dolore magna aliqua.</p>
+
+              <footer>Leonardo Da Vinci</footer>
+
+            </blockquote>
+
+          </div>
+
+        </div>
+
+      </div>
+
+      </div>
+
+    </div>
+
+  </div>
+
+-->
+-----------
+<!--
+
+  <div id="portfolio">
+
+    <div class="row-gree">
+
+      <div class="w-container wrap">
+
+        <div class="center">
+
+          <h1 class="underline">SEE OUR WORK</h1>
+
+        </div>
+
+      </div>
+
+    </div>
+
+    <div class="row-back">
+
+      <div class="w-container center">
+
+        <div class="row">
+
+          <div class="options">
+
+            <ul>
+
+    <li class="filter button border medium active" data-filter="all">Show All</li>
+
+    <li class="filter button border medium" data-filter="web_design">Web Design</li>
+
+    <li class="filter button border medium" data-filter="html5_css3">HTML5 CSS3</li>
+
+</ul>
+
+          </div>
+
+        </div>
+
+        </div>
+
+         <ul class="lb-album" id="Grid">
+
+    <li class="mix web_design mix_all">
+
+     <a class="image-popup-no-margins"  alt="responsive" title="Responsive Design" href="images/portfolio/thumbnail-01.jpg">
+
+        <img src="images/portfolio/thumbnail-01.jpg">
+
+        <span>
+
+          <h4 class="underline heading-description">Responsive Design</h4>
+
+          <p class="center description">Clinet / Themeforest</p>
+
+        </span>
+
+      </a>
+
+     
+
+    </li>
+
+    <li class="mix html5_css3 mix_all">
+
+      <a class="image-popup-no-margins" href="images/portfolio/thumbnail-07.jpg">
+
+        <img src="images/portfolio/thumbnail-07.jpg">
+
+        <span>
+
+          <h4 class="underline heading-description">HTML5 & CSS3</h4>
+
+          <p class="center description">Clinet / Themeforest</p>
+
+        </span>
+
+       </a>
+
+    </li>
+
+    <li class="mix html5_css3 mix_all">
+
+      <a class="image-popup-no-margins" href="images/portfolio/thumbnail-08.jpg">
+
+        <img src="images/portfolio/thumbnail-08.jpg">
+
+        <span>
+
+          <h4 class="underline heading-description">Grid System</h4>
+
+          <p class="center description">Clinet / Themeforest</p>
+
+        </span>
+
+       </a>
+
+    </li>
+
+    <li class="mix web_design mix_all">
+
+      <a class="image-popup-no-margins" href="images/portfolio/thumbnail-02.jpg">
+
+        <img src="images/portfolio/thumbnail-02.jpg">
+
+        <span>
+
+          <h4 class="underline heading-description">IOS7 Style</h4>
+
+          <p class="center description">Clinet / Themeforest</p>
+
+        </span>
+
+      </a>
+
+    </li>
+
+     <li class="mix web_design mix_all">
+
+      <a class="image-popup-no-margins" href="images/portfolio/thumbnail-03.jpg">
+
+        <img src="images/portfolio/thumbnail-03.jpg">
+
+        <span>
+
+          <h4 class="underline heading-description">Design Works</h4>
+
+          <p class="center description">Clinet / Themeforest</p>
+
+        </span>
+
+      </a>
+
+    </li>
+
+    <li class="mix html5_css3 mix_all">
+
+      <a class="image-popup-no-margins" href="images/portfolio/thumbnail-06.jpg">
+
+        <img src="images/portfolio/thumbnail-06.jpg">
+
+        <span>
+
+          <h4 class="underline heading-description">JQuery Slider</h4>
+
+          <p class="center description">Clinet / Themeforest</p>
+
+        </span>
+
+      </a>
+
+    </li>
+
+    <li class="mix web_design mix_all">
+
+    <a class="image-popup-no-margins" href="images/portfolio/thumbnail-04.jpg">
+
+        <img src="images/portfolio/thumbnail-04.jpg">
+
+        <span>
+
+          <h4 class="underline heading-description">Hunting Themes</h4>
+
+          <p class="center description">Clinet / Themeforest</p>
+
+        </span>
+
+      </a>
+
+    </li>
+
+    <li class="mix web_design mix_all">
+
+      <a class="image-popup-no-margins" href="images/portfolio/thumbnail-05.jpg">
+
+        <img src="images/portfolio/thumbnail-05.jpg">
+
+        <span>
+
+          <h4 class="underline heading-description">Flat Design</h4>
+
+          <p class="center description">Clinet / Themeforest</p>
+
+        </span>
+
+      </a>
+
+    </li>
+
+    
+
+    <li class="mix html5_css3 mix_all">
+
+      <a class="image-popup-no-margins" href="images/portfolio/thumbnail-09.jpg">
+
+        <img src="images/portfolio/thumbnail-09.jpg">
+
+        <span>
+
+          <h4 class="underline heading-description">Long Shadow</h4>
+
+          <p class="center description">Clinet / Themeforest</p>
+
+        </span>
+
+      </a>
+
+    </li>
+
+    </ul>
+
+    </div>
+
+  </div>
+
+   
+-->
+-------
+<!--
+    <div class="row-gree">
+
+      <div class="w-container wrap-normal">
+
+        <div class="center">
+
+          <h1 class="underline">OUR PRICING PLANS</h1>
+
+          <p>Check our <strong class="red">competitive</strong> prices for our products.</p>
+
+        </div>
+
+      </div>
+
+    </div>
+
+    <div class="row-back">
+
+      <div class="w-container wrapper">
+
+        <div class="pricing-table">
+
+          <div class="w-co w-col-3 wp3">
+
+            <div class="pricing-section">
+
+              <div class="pricing-header">
+
+                <h3>ENTERPRISE</h3>
+
+                <span class="preice">$59 / Per Month</span>
+
+              </div>
+
+              <div class="pricing-content">
+
+                <ul>
+
+                  <li>Cras dapibus vivamus elementum</li>
+
+                  <li>Semper nisi aenean vulputate</li>
+
+                  <li>Tellus aenean leo ligula porttitor</li>
+
+                  <li>Consequat vitae eleifend ac enim</li>
+
+                </ul>
+
+              </div>
+
+              <div class="pricing-footer">
+
+                <a class="button border">Purchase Now</a>
+
+              </div>
+
+            </div>
+
+          </div>
+
+          <div class="w-co w-col-3 wp3 delay-05s">
+
+            <div class="pricing-section pricing-main">
+
+              <div class="pricing-header header-main">
+
+                <h3>PROFESSIONAL</h3>
+
+                <span class="preice">$29 / Per Month</span>
+
+              </div>
+
+              <div class="pricing-content">
+
+                <ul>
+
+                  <li>Cras dapibus vivamus elementum</li>
+
+                  <li>Semper nisi aenean vulputate</li>
+
+                  <li>Tellus aenean leo ligula porttitor</li>
+
+                  <li>Consequat vitae eleifend ac enim</li>
+
+                </ul>
+
+              </div>
+
+              <div class="pricing-footer footer-main">
+
+                <a class="button">Purchase Now</a>
+
+              </div>
+
+            </div>
+
+          </div>
+
+          <div class="w-co w-col-3 wp3 delay-1s">
+
+            <div class="pricing-section">
+
+              <div class="pricing-header">
+
+                <h3>STANDARD</h3>
+
+                <span class="preice">$19 / Per Month</span>
+
+              </div>
+
+              <div class="pricing-content">
+
+                <ul>
+
+                  <li>Cras dapibus vivamus elementum</li>
+
+                  <li>Semper nisi aenean vulputate</li>
+
+                  <li>Tellus aenean leo ligula porttitor</li>
+
+                  <li>Consequat vitae eleifend ac enim</li>
+
+                </ul>
+
+              </div>
+
+              <div class="pricing-footer">
+
+                <a class="button border">Purchase Now</a>
+
+              </div>
+
+            </div>
+
+          </div>
+
+          <div class="w-co w-col-3 wp3 delay-1-5s">
+
+            <div class="pricing-section last">
+
+              <div class="pricing-header">
+
+                <h3>BASIC</h3>
+
+                <span class="preice">$9 / Per Month</span>
+
+              </div>
+
+              <div class="pricing-content">
+
+                <ul>
+
+                  <li>Cras dapibus vivamus elementum</li>
+
+                  <li>Semper nisi aenean vulputate</li>
+
+                  <li>Tellus aenean leo ligula porttitor</li>
+
+                  <li>Consequat vitae eleifend ac enim</li>
+
+                </ul>
+
+              </div>
+
+              <div class="pricing-footer">
+
+                <a class="button border">Purchase Now</a>
+
+              </div>
+
+            </div>
+
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+    -->
+-----------
+<!--
+ <div class="row-gree" id="team">
+  <div class="w-container wrap">
+    <h1 class="center underline">MEET THE TEAM</h1>
+  </div>
+ </div>
+
+  <div class="row-back">
+      <div class="w-container wrap-normal">
+        <div class="center">
+          <h2>our assets</h2>
+          <p>A proud group of <strong class="green">individuals</strong> who came together in a perfect unity to present you with this.</p>
+        </div>
+        <div class="center w-col w-col-3 wp4">
+          <div class="team-album">
+            <div class="tumbnail">
+              <a class="team-hyper">
+              <img class="thumbnail-img" src="images/team/image1.png" alt="team1">
+              <span>
+                <h3 class="team-heading">James Dylan</h3>
+                <p class="team-designation">CREATIVE DIRECTOR</p>
+                <p class="team-des">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum repellat possimus laboriosam et.</p>
+              </span>
+            </a>
+            <div class="team-social">
+                <a class="social-icons" href="" titlle="Facebook"><i class="facebookelegance-icons-"></i></a>
+                <a class="social-icons" href="" titlle="Twitter"><i class="twitter-birdelegance-icons-"></i></a>
+                <a class="social-icons" href="" titlle="Linkedin"><i class="linkedinelegance-icons-"></i></a>
+                <a class="social-icons" href="" titlle="Google+"><i class="googleplus-rectelegance-icons-"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="center w-col w-col-3 wp4 delay-05s">
+          <div class="team-album">
+            <div class="tumbnail">
+              <a class="team-hyper">
+              <img class="thumbnail-img" src="images/team/image1.png" alt="team1">
+              <span>
+                <h3 class="team-heading">James Dylan</h3>
+                <p class="team-designation">CREATIVE DIRECTOR</p>
+                <p class="team-des">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum repellat possimus laboriosam et.</p>
+              </span>
+            </a>
+            <div class="team-social">
+                <a class="social-icons" href="" titlle="Facebook"><i class="facebookelegance-icons-"></i></a>
+                <a class="social-icons" href="" titlle="Twitter"><i class="twitter-birdelegance-icons-"></i></a>
+                <a class="social-icons" href="" titlle="Linkedin"><i class="linkedinelegance-icons-"></i></a>
+                <a class="social-icons" href="" titlle="Google+"><i class="googleplus-rectelegance-icons-"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="center w-col w-col-3 wp4 delay-1s">
+          <div class="team-album">
+            <div class="tumbnail">
+              <a class="team-hyper">
+              <img class="thumbnail-img" src="images/team/image1.png" alt="team1">
+              <span>
+                <h3 class="team-heading">James Dylan</h3>
+                <p class="team-designation">CREATIVE DIRECTOR</p>
+                <p class="team-des">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum repellat possimus laboriosam et.</p>
+              </span>
+            </a>
+            <div class="team-social">
+                <a class="social-icons" href="" titlle="Facebook"><i class="facebookelegance-icons-"></i></a>
+                <a class="social-icons" href="" titlle="Twitter"><i class="twitter-birdelegance-icons-"></i></a>
+                <a class="social-icons" href="" titlle="Linkedin"><i class="linkedinelegance-icons-"></i></a>
+                <a class="social-icons" href="" titlle="Google+"><i class="googleplus-rectelegance-icons-"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="center w-col w-col-3 wp4 delay-1-5s">
+          <div class="team-album">
+            <div class="tumbnail">
+              <a class="team-hyper">
+              <img class="thumbnail-img" src="images/team/image1.png" alt="team1">
+              <span>
+                <h3 class="team-heading">James Dylan</h3>
+                <p class="team-designation">CREATIVE DIRECTOR</p>
+                <p class="team-des">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum repellat possimus laboriosam et.</p>
+              </span>
+            </a>
+            <div class="team-social">
+                <a class="social-icons" href="" titlle="Facebook"><i class="facebookelegance-icons-"></i></a>
+                <a class="social-icons" href="" titlle="Twitter"><i class="twitter-birdelegance-icons-"></i></a>
+                <a class="social-icons" href="" titlle="Linkedin"><i class="linkedinelegance-icons-"></i></a>
+                <a class="social-icons" href="" titlle="Google+"><i class="googleplus-rectelegance-icons-"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+       
+
+
+  </div>
+</div>
+
+<div class="parallax-back"  data-stellar-background-ratio="0.5">
+      <div class="opcaity">
+  <div class="w-container wrap">
+     <div class="w-col w-col-4">
+          <div class="center">
+            <h3>NOBODY’S <span class="green">PERFECT.</span> THAT DOESN’T MEAN WE WON’T TRY!</h3>
+          </div>
+        </div>
+        <div class="w-col w-col-4">
+          <div class="center">
+            <div class="circule circule-info"><p class="info"><strong class="info-strong">99%</strong><br/>CLIENT<br/>SATISFACTION</p></div>
+          </div>
+        </div>
+        <div class="w-col w-col-4">
+          <div class="center">
+            <h3 class="info-x">WANT TO KNOW HOW WE CAN HELP YOU? <br/><a href="mailto:INFO@elgance.COM"><span class="email">INFO@FLATASPHALT.COM</span></a></h3>
+          </div>
+        </div>
+  </div>
+</div>
+</div>
+
+-->
+----------------
+<!--
+<div class="row-whitish">
+  <div class="w-container wrap-normal">
+    <div class="center">
+      <h1 class="underline">OUR CLIENTS</h1>
+    </div>
+  </div>
+</div>
+
+  <div class="row-back">
+
+      <div class="w-container wrap-normal">
+          
+          <div class="center">
+            <h2>A BRIEF OVERVIEW OF OUR CLIENTS</h2>
+            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.</p>
+          </div>
+
+          <div class="clients-sub">
+
+            <div id="clients">
+
+        <div class="clients-wrap">
+
+          <ul id="clients-list" class="clearfix">
+
+            <li><img src="images/clients/client_1.png" alt="logo"></li>
+
+            <li><img src="images/clients/Untitled-3.png" alt="logo"></li>
+
+            <li><img src="" alt=""></li>
+
+            <li><img src="" alt=""></li>
+
+          </ul>
+
+        </div><!-- @end .clients-wrap -->
+
+      <!---/div--><!-- @end #clients -->
+    <!--
+          </div>
+
+
+      </div>
+
+
+  </div>
+-->
+----------- /#c02b3e = red//
+add this to the new clients page
+
+
+
+<div class="w-col w-col-6">
+        <div class="center">
+
+      <!-- START H1 HEADING -->
+      <h4>Bazbus</h4>
+      <!-- END H1 HEADING -->
+      <p>The BazBus is a hop-on hop-off bus service from Johannesburg to Cape Town via Durban, Port Elizabeth and many other towns bookings can be made online at or at backpacker hostels.</p>
+      <h4>CSI (SouthAfrica)</h4>
+      <!-- END H1 HEADING -->
+      <p>CSI is an international leading developer of POS, Back office, Wireless, Web, and Enterprise Software Suites and was founded in Toronto, Canada in 1989. CSI is committed to providing reliable, flexible, and easy-to-use point of sale software. For the past 10 years, CSI has focused specifically on the dry cleaning and textile industry.</p>
+      <!-- START H3 HEADING -->
+      <h4>Metropolitan Ltd</h4>
+      <!-- END H1 HEADING -->
+      <p>Metropolitan is the largest black empowerment financial services group and the third largest long-term insurer in South Africa. It has a successful track record of progressive e-commerce implementations to improve productivity and client satisfaction. Metropolitan has now merged with Momentum to form the MMI Group.</p>
+      <!-- START H4 HEADING -->
+      <h4>Platinum Clothing Group</h4>
+      <!-- END H1 HEADING -->
+      <p>Platinum Clothing Group is a Cape based retailer home to leading designer labels: Jenni Button, Hilton Weiner, Urban, Aca Joe and Vertigo. Platinum started off in 1989 with one Vertigo store in Rondebosch and has moved rapidly into the forefront of design and style in South Africa. The Group has 57 stores in prime locations in all the premier shopping centres across the country.</p>
+      <!-- START H5 HEADING -->
+      <h4>Property Projects (Pty Ltd)</h4>
+      <!-- END H1 HEADING -->
+      <p>Property Projects is an independent property development company primarily building residentail and commercial property in the Western Cape.</p>
+    </div>
+    <!-- END COLUMN 6 -->
+        </div>
+    <!-- START COLUNM 6 -->
+    <div class="w-col w-col-6">
+        <div class="center">
+
+      <h4>Unisys (Pty) Ltd</h4>
+      <!-- END H1 HEADING -->
+      <p>Unisys is a supplier of IT products and outsourced IT managed services in South Africa.</p>
+      <!-- END UNDERLINE DOTTED HEADING -->
+
+      <h4>Usabco</h4>
+      <!-- END H1 HEADING -->
+      <p><a href="https://www.usabco.co.za">Addis</a> has earned itself a household name as one of the most trusted brands in South African homes, offering a diverse range encompassing household cleaning products, kitchen and home plasticware, gardenware and hardware.</p>
+      <!-- END H1 UNDERLINE HEADING -->
+      <h4>Bazbus</h4>
+      <!-- END H1 HEADING -->
+      <p>The BazBus is a hop-on hop-off bus service from Johannesburg to Cape Town via Durban, Port Elizabeth and many other towns bookings can be made online at or at backpacker hostels.</p>
+      <!-- END H2 UNDERLINE HEADING -->
+      <h4>V&A Waterfront (Pty)Ltd</h4>
+      <!-- END H1 HEADING -->
+      <p>The Victoria & Alfred Waterfront has become South Africa's most visited destination and have built up a formidable global reputation. The V&A Waterfront brand is internationally respected and trusted and epitomises the values and expectations of a world-class destination, a place of choice, to live, shop, work and play. mixed-use property development located around the historic Victoria and Alfred Basins which formed Cape Town's original harbour. </p>
+      <!-- END H3 UNDERLINE HEADING -->
+      <h4>Wisepill</h4>
+      <!-- END H1 HEADING -->
+      <p>Wisepill Technologies innovates in the area of adherence to medication, providing real-time adherence management solutions worldwide through the use of mobile phone and Internet technologies.</p>
+    </div>
+    <!-- END COLUMN 6 -->
+  </div>
+      </div></div>
