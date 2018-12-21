@@ -1,2 +1,3 @@
 # gethub.io
-Previous website design
+Previous website designed by 
+# Ebraheem Isaacs
